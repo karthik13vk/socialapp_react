@@ -7,7 +7,7 @@ import NewPost from "./components/NewPost";
 import PostPage from "./components/PostPage";
 // import PostLayout from "./components/PostLayout";
 import Footer from "./components/Footer";
-import { Route, Routes, useNavigate } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import EditPost from "./EditPost";
 import {DataProvider} from "./context/DataContext";
 
